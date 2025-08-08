@@ -51,7 +51,7 @@ When the class is quiet, we shut up… until someone sneezes.
 
 Project Documentation
 For Software:
-<img width="100px" height="auto" src="pic.png"/>
+<img width="800px" height="auto" src="pic.png"/>
 
 Diagrams
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
