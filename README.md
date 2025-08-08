@@ -1,9 +1,10 @@
-Project SHHH
+*Project SHHH*
 
 Basic Details
 Team Name: Eat 5 Star Do Nothing
 
 Team Members
+
 Team Lead: Anandhu S Kumar - Mar Athanasius College Of Engineering
 Member 2: Neha George - Mar Athanasius College Of Engineering
 
