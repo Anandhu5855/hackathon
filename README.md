@@ -1,23 +1,23 @@
-*Project SHHH*
+**Project SHHH**
 
-Basic Details
-Team Name: Eat 5 Star Do Nothing
+**Basic Details**
+Team Name: **Eat 5 Star Do Nothing**
 
-Team Members
+**Team Members**
 
-Team Lead: Anandhu S Kumar - Mar Athanasius College Of Engineering
-Member 2: Neha George - Mar Athanasius College Of Engineering
+Team Lead: **Anandhu S Kumar** - Mar Athanasius College Of Engineering
+Member 2: **Neha George** - Mar Athanasius College Of Engineering
 
-Project Description
+**Project Description**
 A browser-based app that listens for any sound in a classroom — from talking to sneezing — and responds with an extremely loud, extremely annoying, high-pitched noise.
 If the room is silent, it does nothing… until someone inevitably coughs and chaos resumes.
 
-The Problem (that doesn’t exist)
+**The Problem** (that doesn’t exist)
 Teachers complain about noisy students. Students complain about noisy teachers.
 We decided to ignore both and instead create a device that screams at everyone equally.
 Who asked for this? No one. Who’s suffering? Everyone.
 
-The Solution (that nobody asked for)
+**The Solution** (that nobody asked for)
 
 We trained no AI, ran no complex algorithms, and definitely solved nothing.
 Instead, we built a browser app that:
@@ -29,20 +29,20 @@ Technologies/Components Used
 HTML, CSS, JavaScript
 Web Audio API
 
-Languages Used
+**Languages Used**
 HTML – for structuring the web page.
 CSS – for styling the page elements.
 JavaScript – for detecting sound through the microphone and triggering the scream sound.
 
 
-Libraries Used
+**Libraries Used**
 
 Web Audio API (built-in in browsers) – for accessing microphone input and detecting volume levels.
 Howler.js (optional) – for easier handling and playing of audio in different browsers.
 
 
 
-Implementation
+**Implementation**
 
 First, we ask the browser to spy on the microphone.
 We filter the sound to focus on voice frequencies, because that’s where the fun is.
@@ -51,18 +51,15 @@ The louder the student, the louder the scream — pure revenge mechanics.
 When the class is quiet, we shut up… until someone sneezes.
 
 
-Project Documentation
+**Project Documentation**
 For Software:
 <img width="800px" height="auto" src="pic.png"/>
 
-Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
-
-Project Demo
+**Project Demo**
 Video
 https://drive.google.com/drive/folders/1PMNjEDl9zPyjei3ZWm_kTLAAmjCVgOUX
-
+Link:https://useless-foaw.onrender.com
 
 Team Contributions
-Anandhu S Kumar :
- Neha George
+Anandhu S Kumar :Idea Generator
+Neha George :Idea Executer
