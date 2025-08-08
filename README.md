@@ -58,10 +58,8 @@ Diagrams
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+https://drive.google.com/drive/folders/1PMNjEDl9zPyjei3ZWm_kTLAAmjCVgOUX
 
-Additional Demos
-[Add any extra demo materials/links]
 
 Team Contributions
 Anandhu S Kumar :
